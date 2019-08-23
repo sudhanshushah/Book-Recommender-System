@@ -1,0 +1,37 @@
+Please download anaconda from the link below:
+
+
+
+https://www.anaconda.com/distribution/#download-section
+
+
+
+You need to run the .ipynb file in Jupyter Notebook
+
+
+
+Software Package Requirements:
+
+
+
+We use python 3.7 for this project.
+
+
+
+The package we used include:
+
+
+
+--> pandas
+
+
+
+--> numpy
+
+
+
+--> scipy.sparse
+
+
+
+--> sklearn.neighbors
